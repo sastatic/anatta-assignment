@@ -35,10 +35,6 @@ To fetch and display variants for gloves:
 node src/app.js --name=shirt
 ```
 
-### Notes
-- Ensure your Shopify store has the necessary permissions for reading products via the GraphQL API.
-- Make sure Node.js (version 14 or above) and npm are installed on your machine.
-
 ### Directory Structure
 - `src/config/`: Configuration files including Shopify credentials.
 - `src/services/`: Service layer handling API requests.
